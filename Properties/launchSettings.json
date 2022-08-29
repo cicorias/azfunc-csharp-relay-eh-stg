@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "RelayEHtoStorage": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30465,
+      "useSSL": false
+    }
+  }
+}
